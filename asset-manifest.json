@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Axios-TodoApp/static/css/main.689d601a.css",
+    "main.js": "/Axios-TodoApp/static/js/main.16605fbf.js",
+    "index.html": "/Axios-TodoApp/index.html",
+    "main.689d601a.css.map": "/Axios-TodoApp/static/css/main.689d601a.css.map",
+    "main.16605fbf.js.map": "/Axios-TodoApp/static/js/main.16605fbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.689d601a.css",
+    "static/js/main.16605fbf.js"
+  ]
+}
