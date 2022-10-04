@@ -1,0 +1,40 @@
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #363636;
+  padding: 10px 20px;
+  margin: 0px 0px 15px 0px;
+  border-radius: 10px;
+}
+
+.todo-item__title {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.todo-item__settigs {
+  display: flex;
+  align-items: center;
+}
+
+.todo-item-buttons button {
+  margin: 0px 0px 0px 10px;
+}
+/* .todo-item-buttons button:last-child {
+  margin: 0px 0px 0px 0px;
+} */
+
+@media (max-width: 768px) {
+  .todo-item {
+    flex-direction: column;
+    text-align: center;
+  }
+  .todo-item del {
+    display: block;
+    margin: 0px 0px 10px 0px;
+  }
+  .todo-item__title {
+    margin: 0px 0px 10px 0px;
+  }
+}
