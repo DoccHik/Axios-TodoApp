@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Axios-TodoApp/static/css/main.689d601a.css",
-    "main.js": "/Axios-TodoApp/static/js/main.16605fbf.js",
+    "main.css": "/Axios-TodoApp/static/css/main.4dd1f203.css",
+    "main.js": "/Axios-TodoApp/static/js/main.c21600d8.js",
     "index.html": "/Axios-TodoApp/index.html",
-    "main.689d601a.css.map": "/Axios-TodoApp/static/css/main.689d601a.css.map",
-    "main.16605fbf.js.map": "/Axios-TodoApp/static/js/main.16605fbf.js.map"
+    "main.4dd1f203.css.map": "/Axios-TodoApp/static/css/main.4dd1f203.css.map",
+    "main.c21600d8.js.map": "/Axios-TodoApp/static/js/main.c21600d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.689d601a.css",
-    "static/js/main.16605fbf.js"
+    "static/css/main.4dd1f203.css",
+    "static/js/main.c21600d8.js"
   ]
 }
