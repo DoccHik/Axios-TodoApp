@@ -17,11 +17,11 @@ const TodoItem = ({ todos, deleteTask, isLoading, toggleDoneTaskHandler }) => {
             <li className="todo-item" key={todo.id}>
               <div className="todo-item__settigs">
                 {todo.isCompleted ? (
-                  <Link to={`/todo-${todo.id}`}>
+                  <Link to={`/task/${todo.id}`}>
                     <del className="todo-item__title">{todo.title}</del>
                   </Link>
                 ) : (
-                  <Link to={`/todo-${todo.id}`}>
+                  <Link to={`/task/${todo.id}`}>
                     <h2 className="todo-item__title">{todo.title}</h2>
                   </Link>
                 )}

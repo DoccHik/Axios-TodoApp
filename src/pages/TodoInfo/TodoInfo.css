@@ -1,0 +1,47 @@
+.todo-info__done {
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 5px;
+  display: inline-block;
+  color: #06ff14;
+  background-color: #313131;
+  padding: 5px 8px;
+  margin: 0px 0px 10px 0px;
+}
+
+.todo-info {
+  background-color: #333;
+  padding: 20px 15px;
+  border-radius: 15px;
+}
+
+.todo-info__exit {
+  color: rgba(204, 204, 204, 0.51);
+  transition: all 0.3s ease;
+}
+.todo-info__exit:hover {
+  color: #06ff14;
+  /* color: #fff; */
+}
+
+.todo-info__title {
+  text-align: center;
+  font-size: 18px;
+  color: #06ff14;
+  text-transform: uppercase;
+  line-height: 24px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  margin: 0px 0px 20px 0px;
+}
+
+.todo-info__description {
+  font-size: 18px;
+  margin: 0px 0px 15px 0px;
+  text-align: center;
+}
+.todo-info-buttons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

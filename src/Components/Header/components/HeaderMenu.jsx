@@ -8,7 +8,7 @@ const HeaderMenu = () => {
     {
       id: "all",
       name: "Все",
-      path: "/",
+      path: "/task",
     },
     {
       id: "done",

@@ -14,7 +14,7 @@ const AddTaskForm = ({ addNewTask }) => {
     const task = {
       title: taskTitle,
       isCompleted: false,
-      Description: taskDescription,
+      description: taskDescription,
     };
 
     addNewTask(task);

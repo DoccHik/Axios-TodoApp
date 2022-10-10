@@ -12,7 +12,7 @@ const Header = () => {
       <header className="header">
         <div className="container">
           <div className="header-row">
-            <Link to="/" className="header__logo">
+            <Link to="/task" className="header__logo">
               <LogoApp />
               <span className="header__logo-name">Task planner</span>
             </Link>
